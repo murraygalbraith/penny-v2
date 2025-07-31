@@ -1,2 +1,2 @@
-# penny-v2
+# penny-ctac
 First test of Conjecture's CTAC language for Penny
